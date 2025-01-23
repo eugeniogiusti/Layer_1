@@ -7,7 +7,8 @@
 4. Keep holding Mode button for 15-20 seconds until LED blinks amber
 5. Release Mode button
 6. Switch will reset to factory defaults
-Useful links:
+
+- Useful links:
 - https://www.youtube.com/watch?v=L1ep9CDfAaE (factory reset)
 - https://www.youtube.com/watch?v=vjaScc6-MbQ (factory reset_2)
 
