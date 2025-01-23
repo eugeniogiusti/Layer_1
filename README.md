@@ -26,6 +26,13 @@ show running-config
 show vlan
 show version
 ```
+![image](https://github.com/user-attachments/assets/e941da62-f990-4ddf-a958-a178f82d4f12)
+
+![image](https://github.com/user-attachments/assets/d56716ca-8a3a-4634-9e86-c6a92f1a81d3)
+
+![image](https://github.com/user-attachments/assets/f4a2c8e8-9ead-43f3-b7f9-7a5813ce42eb)
+
+
 - Running-config should show only default settings
 - VLAN database should only have VLAN 1
 - Interfaces should show "!" indicating no configuration
@@ -42,6 +49,13 @@ show version
      sudo apt install screen
      sudo screen /dev/ttyUSB0 9600
      ```
+     ![image](https://github.com/user-attachments/assets/4a447941-b8d7-472a-866d-a05d50d8d3e1)
+
+     ![image](https://github.com/user-attachments/assets/713e66d4-35a5-487b-8201-3622b8cf1612)
+
+     ![image](https://github.com/user-attachments/assets/bb89a4bb-305f-4d2e-93bd-402c295fdb1e)
+
+
    
 3. Connection Settings:
    - Speed: 9600 baud
