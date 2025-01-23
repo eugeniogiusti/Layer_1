@@ -66,7 +66,7 @@ show version
    - Parity: None
    - Flow control: None
 
-4. Basic Configuration After Reset | Password configuration console line
+4. ## Basic Configuration | Password configuration console line
    ```
    enable
    configure terminal
@@ -76,6 +76,25 @@ show version
    end
    write memory
    ```
+
+### Set Enable Password (Privileged EXEC mode)
+```
+enable
+configure terminal
+enable secret <password>
+end
+write memory
+```
+
+### Configure Console Access
+```
+enable
+configure terminal
+line console 0
+password <password>
+login
+end
+write memory
 
 ## Save Configuration
 To save changes:
