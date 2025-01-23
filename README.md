@@ -93,10 +93,13 @@ configure terminal
 hostname <name>
 end
 write memory
-
-
-## Linux Screen Commands
-- Exit screen: Ctrl+A, then type ":quit"
-- Detach screen: Ctrl+A, then D
-- List screens: screen -ls
-- Reattach: screen -r
+or to save the configuration
+copy running-config startup-config
+```
+### Linux Screen Commands
+```
+Exit screen: Ctrl+A, then type ":quit"
+Detach screen: Ctrl+A, then D
+List screens: screen -ls
+Reattach: screen -r
+```
