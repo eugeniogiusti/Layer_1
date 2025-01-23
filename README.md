@@ -8,6 +8,8 @@
 5. Release Mode button
 6. Switch will reset to factory defaults
 
+![image](https://github.com/user-attachments/assets/fed3670a-d522-455f-99b5-c88cb9b5e897)
+
 - Useful links:
 - https://www.youtube.com/watch?v=L1ep9CDfAaE (factory reset)
 - https://www.youtube.com/watch?v=vjaScc6-MbQ (factory reset_2)
