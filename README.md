@@ -66,12 +66,11 @@ show version
    - Parity: None
    - Flow control: None
 
-4. Basic Configuration After Reset:
+4. Basic Configuration After Reset | Password configuration console line
    ```
    enable
    configure terminal
-   enable secret <password>
-   line vty 0 15
+   line console 0
    password <password>
    login
    end
