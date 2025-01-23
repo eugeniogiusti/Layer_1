@@ -3,7 +3,7 @@
 ## Physical Factory Reset
 1. Power off the switch
 2. Locate the Mode button on front panel (left side of LEDs)
-3. Hold Mode button while powering on switch
+3. Waiting boot system
 4. Keep holding Mode button for 15-20 seconds until LED blinks amber
 5. Release Mode button
 6. Switch will reset to factory defaults
