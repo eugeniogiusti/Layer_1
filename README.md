@@ -86,25 +86,14 @@ end
 write memory
 ```
 
-### Configure Console Access
+### Configure hostname
 ```
 enable
 configure terminal
-line console 0
-password <password>
-login
+hostname <name>
 end
 write memory
 
-## Save Configuration
-To save changes:
-```
-write memory
-```
-or
-```
-copy running-config startup-config
-```
 
 ## Linux Screen Commands
 - Exit screen: Ctrl+A, then type ":quit"
