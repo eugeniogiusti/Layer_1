@@ -24,12 +24,17 @@ Used to connect:
 - Computers to switches/routers.
 - Printers to network devices.
 
+![RJ45-Pinout](https://github.com/user-attachments/assets/af6825a0-35cb-4090-a6ba-16604bc6b40f)
+
 ### 2. **Crossover Cable**
 
 Used to connect:
 
 - Two computers directly.
 - Two switches or hubs without an uplink port.
+
+![EthernetCross-300x217](https://github.com/user-attachments/assets/1ee3e643-1372-4e8a-a88e-a76f4532ebaf)
+
 
 ---
 
@@ -125,6 +130,11 @@ Pin 8: Brown
 - Avoid over-tightening or damaging the cable jacket during crimping.
 - Label cables for easier identification in complex networks.
 
+![images](https://github.com/user-attachments/assets/58d3dbad-f97d-4ecd-b977-b0536260da4d)
+
+- Useful videos: 
+- https://www.youtube.com/watch?v=NWhoJp8UQpo
+- https://www.youtube.com/watch?v=noRk8jYAbSg
 
 
 # Cisco 2950 Switch Factory Reset and Console Connection Guide
