@@ -235,6 +235,18 @@ write memory
 or to save the configuration
 copy running-config startup-config
 ```
+
+### SSH Configuration
+```cisco
+Switch(config)# hostname switch_name
+Switch(config)# ip domain-name local.net
+Switch(config)# crypto key generate rsa
+Switch(config)# username admin password your_password
+Switch(config)# line vty 0 15
+Switch(config-line)# transport input ssh
+Switch(config-line)# login local
+```
+
 ### Linux Screen Commands
 ```
 Exit screen: Ctrl+A, then type ":quit"
